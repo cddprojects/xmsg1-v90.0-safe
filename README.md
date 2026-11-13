@@ -1,4 +1,4 @@
-# FlexiBrowse (layout v2)
+# Talent Lore (layout v2)
 
 Independent information website (PHP homepage, HTML, CSS, JS) with guides on part-time, home-based, remote, online and freelance work in Singapore. It does not list vacancies or place candidates.
 

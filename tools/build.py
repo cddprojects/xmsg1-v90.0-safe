@@ -73,9 +73,9 @@ PAGE_IMG = {
 
 # Inline SVG mark (no image file needed).
 LOGO = ('<svg class="mark" viewBox="0 0 32 32" width="32" height="32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#f2b134"/>'
-        '<path d="M11 23V9h11M11 16h9" fill="none" stroke="#12233f" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg>')
+        '<path d="M8 9h16M16 9v14" fill="none" stroke="#12233f" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg>')
 FAVICON = ("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23f2b134'/%3E"
-           "%3Cpath d='M11 23V9h11M11 16h9' fill='none' stroke='%2312233f' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E")
+           "%3Cpath d='M8 9h16M16 9v14' fill='none' stroke='%2312233f' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E")
 
 def icon(p):
     return f'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">{p}</svg>'

@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Flexible Work Guides for Singapore: Part-Time, Home-Based and Freelance | FlexiBrowse</title>
+<title>Flexible Work Guides for Singapore: Part-Time, Home-Based and Freelance | Talent Lore</title>
 <meta name="description" content="Plain-language guides to part-time, home-based, remote and freelance work in Singapore: typical hours, how pay and CPF work, and what to ask before you accept an offer.">
 <meta name="theme-color" content="#12233f">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23f2b134'/%3E%3Cpath d='M11 23V9h11M11 16h9' fill='none' stroke='%2312233f' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23f2b134'/%3E%3Cpath d='M8 9h16M16 9v14' fill='none' stroke='%2312233f' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="sgs-styles.css">
 <meta name="robots" content="noindex,nofollow">
 </head>
@@ -14,7 +14,7 @@
 <a class="skip" href="#main">Skip to content</a>
 <header class="topbar" id="rail">
 <div class="wrap bar">
-<a class="brand" href="index.php"><svg class="mark" viewBox="0 0 32 32" width="32" height="32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#f2b134"/><path d="M11 23V9h11M11 16h9" fill="none" stroke="#12233f" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg><span>FlexiBrowse</span></a>
+<a class="brand" href="index.php"><svg class="mark" viewBox="0 0 32 32" width="32" height="32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#f2b134"/><path d="M8 9h16M16 9v14" fill="none" stroke="#12233f" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Talent Lore</span></a>
 <button class="menu-btn" aria-expanded="false" aria-controls="nav-list" aria-label="Open menu"><span class="bars" aria-hidden="true"></span></button>
 <nav class="main-nav" aria-label="Main">
 <ul id="nav-list"><li><a href="index.php" aria-current="page">Home</a></li><li><a href="jobs/">Job Types</a></li><li><a href="knowledge-hub/">Knowledge Hub</a></li><li><a href="about/">About Us</a></li><li class="has-sub"><a href="services/" class="sub-parent">Resources</a><ul class="sub"><li><a href="services/">All services</a></li><li><a href="glossary/">Glossary</a></li><li><a href="faq/">FAQ</a></li></ul></li></ul>
@@ -100,25 +100,25 @@
 
 <section id="contact-us"><div class="wrap split">
 <div><span class="eyebrow">Contact</span><h2>Have a question or a topic idea?</h2><p class="lede">Write to us. We read every message and use your suggestions to plan new guides.</p></div>
-<div><form id="contact-form" class="form" data-mail="hello@flexibrowse.com" novalidate>
+<div><form id="contact-form" class="form" data-mail="hello@talentlore.com" novalidate>
 <div class="field"><label for="name">Name</label><input id="name" required autocomplete="name"><div class="err" aria-live="polite"></div></div>
 <div class="field"><label for="email">Email</label><input id="email" type="email" required autocomplete="email"><div class="err" aria-live="polite"></div></div>
 <div class="field"><label for="msg">Message</label><textarea id="msg" required></textarea><div class="err" aria-live="polite"></div></div>
 <button class="btn btn-primary" type="submit">Send</button>
 </form>
-<div id="form-ok" class="ok" hidden tabindex="-1" role="status"><h3>Almost done.</h3><p>Your email app should now be open with your message ready. Please press send there to complete it. We only receive your message once you do.</p><p class="ok-sub">If nothing opened, you can write to us directly at hello@flexibrowse.com.</p></div></div>
+<div id="form-ok" class="ok" hidden tabindex="-1" role="status"><h3>Almost done.</h3><p>Your email app should now be open with your message ready. Please press send there to complete it. We only receive your message once you do.</p><p class="ok-sub">If nothing opened, you can write to us directly at hello@talentlore.com.</p></div></div>
 </div></section>
 
 </main>
 <footer class="site-footer"><div class="wrap">
 <div class="foot-grid">
-<div><a class="brand" href="index.php"><svg class="mark" viewBox="0 0 32 32" width="32" height="32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#f2b134"/><path d="M11 23V9h11M11 16h9" fill="none" stroke="#12233f" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg><span>FlexiBrowse</span></a>
+<div><a class="brand" href="index.php"><svg class="mark" viewBox="0 0 32 32" width="32" height="32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#f2b134"/><path d="M8 9h16M16 9v14" fill="none" stroke="#12233f" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Talent Lore</span></a>
 <p style="margin-top:1rem;max-width:32ch">Independent guides to careers, industries and skills in Singapore, including part-time and home-based work.</p></div>
 <div><h4>Explore</h4><ul><li><a href="services/">Services</a></li><li><a href="jobs/">Job types</a></li><li><a href="knowledge-hub/">Knowledge Hub</a></li><li><a href="glossary/">Glossary</a></li><li><a href="faq/">FAQ</a></li></ul></div>
 <div><h4>Company</h4><ul><li><a href="about/">About Us</a></li><li><a href="contact/">Contact Us</a></li><li><a href="privacy-policy/">Privacy Policy</a></li><li><a href="disclaimer/">Disclaimer</a></li></ul></div>
 </div>
-<div class="legal"><p>FlexiBrowse is an information website. We are independent and not connected with any government agency. We do not recruit, place candidates or advertise vacancies. Our guides give general information only and are not legal advice; please confirm details with MOM or CPF Board. ScamShield helpline: <strong>1799</strong>.</p>
-<p>&copy; 2026 FlexiBrowse &middot; Raffles Place, Singapore 048616 &middot; +65 9876 5432 &middot; hello@flexibrowse.com</p></div>
+<div class="legal"><p>Talent Lore is an information website. We are independent and not connected with any government agency. We do not recruit, place candidates or advertise vacancies. Our guides give general information only and are not legal advice; please confirm details with MOM or CPF Board. ScamShield helpline: <strong>1799</strong>.</p>
+<p>&copy; 2026 Talent Lore &middot; 137 Telok Ayer Street, Singapore 068602 &middot; +65 9876 5432 &middot; hello@talentlore.com</p></div>
 </div></footer>
 </div>
 <script src="main.js"></script>
